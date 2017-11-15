@@ -5,7 +5,6 @@
 > ##### 同时也是世界上最大的同性交友平台
 
 
-
 这次先给你们讲一个鬼故事,  
 
 美工小姐姐发现了一块史前的文件,
@@ -45,9 +44,11 @@
 
 ## Github
 
-请注意，请注册自己的Github账号，并且将这次的作业提交到自己的仓库中。
-[Git教程][git liao]
-[Github教程][git geekpark]
+请注意，请注册自己的Github账号，并且将这次的作业提交到自己的仓库中。 
+
+[Git教程][git liao]  
+
+[Github教程][github geekpark]
 
 
 * ### Markdown
